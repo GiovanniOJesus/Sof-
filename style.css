@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "lato";
+    color: #271A45;
+}
+
+body{
+    background-color: #D9CDF7;
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+}
+
+.cont{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    opacity: 0.67;
+    font-size: 10px;
+}
+
+h1{
+    margin-top: 8px;
+    font-family: "Crimson Pro";
+}
+h2{
+    margin-top: 8px;
+    font-weight: 400;
+    opacity: 0.67;
+    font-size: 16px;
+}
+button{
+    margin-top: 8px;
+    background-color:  #D9CDF7;
+    border-radius: 999px;
+    padding: 8px 16px 8px 16px;
+}
+
+button:hover{
+    cursor:pointer
+}
